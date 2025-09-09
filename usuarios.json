@@ -1,0 +1,60 @@
+{
+    "livia": {
+        "idade": 18,
+        "genero": "Feminino",
+        "altura": 1.58,
+        "peso": 60.0,
+        "objetivo": "Perder gordura"
+    },
+    "thalyta": {
+        "idade": 20,
+        "genero": "Feminino",
+        "altura": 1.63,
+        "peso": 82.0,
+        "objetivo": "Ganhar massa"
+    },
+    "clara": {
+        "idade": 17,
+        "genero": "Feminino",
+        "altura": 1.7,
+        "peso": 82.0,
+        "objetivo": "Perder gordura",
+        "atividade": "Moderado",
+        "restricoes": "n\u00e3o",
+        "refeicoes_por_dia": 4,
+        "condicoes_medicas": "n\u00e3o"
+    },
+    "pedro": {
+        "idade": 18,
+        "genero": "Masculino",
+        "altura": 1.79,
+        "peso": 63.0,
+        "objetivo": "Ganhar massa",
+        "atividade": "Intenso",
+        "restricoes": "n\u00e3o",
+        "refeicoes_por_dia": 4,
+        "condicoes_medicas": "n\u00e3o"
+    },
+    "clarinha": {
+        "idade": 18,
+        "genero": "Feminino",
+        "altura": 1.7,
+        "peso": 75.0,
+        "objetivo": "Perder gordura",
+        "atividade": "Moderado",
+        "restricoes": "n\u00e3o",
+        "refeicoes_por_dia": 3,
+        "condicoes_medicas": "n\u00e3p"
+    },
+    "Luisa": {
+        "idade": 21,
+        "genero": "Feminino",
+        "altura": 1.75,
+        "peso": 68.0,
+        "objetivo": "Ganhar massa",
+        "atividade": "Leve",
+        "restricoes": "n\u00e3o",
+        "refeicoes_por_dia": 3,
+        "condicoes_medicas": "n\u00e3o"
+    }
+}
